@@ -1,6 +1,6 @@
-# 🚀 End-to-End Business Analytics Project (Superstore)
+# End-to-End Business Analytics Project (Superstore)
 
-## 📌 Project Overview
+## Project Overview
 This project showcases a complete end-to-end business analytics workflow using a retail dataset (Superstore). The objective of this project is to transform raw data into meaningful insights that can support business decision-making.
 
 The project is divided into three main parts:
@@ -35,7 +35,7 @@ This phase helped in extracting meaningful insights such as growth patterns, pro
 
 ---
 
-## 🗄 SQL Analysis
+## SQL Analysis
 
 In the SQL phase, I focused on performing analysis directly on the database.
 
@@ -92,7 +92,7 @@ The dashboard provides a clear and interactive view of business performance, hel
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - Identified top-performing product categories driving revenue
 - Discovered differences between high sales and high profit categories
@@ -110,9 +110,3 @@ This project demonstrates a complete business analytics pipeline:
 - Power BI was used for visualization and storytelling
 
 Overall, this project simulates a real-world business scenario where decisions are made based on data insights.
-
----
-
-## 🔥 Interview Summary
-
-“I performed end-to-end exploratory data analysis on a retail dataset. I started with data cleaning and preprocessing, followed by feature engineering for time-based analysis. I analyzed sales trends, category performance, profitability, and customer segmentation. I also used SQL for database-level analysis and built an interactive Power BI dashboard to visualize insights and support business decision-making.”
